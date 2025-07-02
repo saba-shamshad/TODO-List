@@ -18,11 +18,16 @@ A simple desktop-based ToDo List application built using Java Swing. It allows u
 
 🎯 **Features**
 
-✅ Add tasks to the list
-✅ Delete selected tasks
-✅ User-friendly interface
-✅ Pop-up alerts for invalid actions
-✅ Uses core Java - no external libraries required
+✅ Add tasks to the list.
+
+✅ Delete selected tasks.
+
+✅ User-friendly interface.
+
+✅ Pop-up alerts for invalid actions.
+
+✅ Uses core Java - no external libraries required.
+
 
 🖥️ **How It Works**
 
